@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "outDir": "imageGallery/js",
+        "target": "ES6",
+        "noEmit": false
+    },
+  
+    "include": ["imageGallery/**/*"]
+}
